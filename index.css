@@ -1,5 +1,9 @@
+body {
+  background-color: lightblue;
+}
+
 .h1 {
   
-  postion:realtive;
+  postion:fixed;
   
 }
