@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  font-family: ROBOTO;
-  postion:fixed;
-  
+color: blue;
+  font-family: verdana;
+  font-size: 300%;
 }
